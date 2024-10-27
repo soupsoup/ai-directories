@@ -45,6 +45,9 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
 
+## C
+- [Choose My AI](https://www.choosemyai.com) - Vote and review your favorite AI tools. Includes video tutorials and links to further learning resources.
+
 ## D 
 - [Dynamite AI](https://www.dynamite-ai.com/) - Yet another (FREE) AI Tools Directory.
 
